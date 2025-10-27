@@ -1,6 +1,8 @@
 
 # HSLU Generative AI Course
 
+<img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/3aead2f0-6d55-4e24-910a-5526b8475dab" />
+
 A comprehensive hands-on course covering Computer Vision, Deep Learning, and Generative AI from fundamentals to state-of-the-art models.
 
 ## Course Overview
